@@ -210,7 +210,7 @@ const recommendationGroups = [
       ["Isiah McHellen", "/letters/i-mchellen.pdf"],
       ["Darius Kirk", "/letters/darius-kirk.pdf"],
       ["Brenda Smith", "/letters/brenda-smith.pdf"],
-      ["LaurenChaney", "/letters/lauren-chaney.pdf"],
+      ["Lauren Chaney", "/letters/lauren-chaney.pdf"],
       ["Nehemiah Thomas", "/letters/nehemiah-thomas.pdf"],
     ],
   },
@@ -239,7 +239,7 @@ const recommendationGroups = [
     
       ["Carl Hudson", "/letters/carl-hudson.pdf"],
       ["Traci Nave", "/letters/traci-nave.pdf"],
-      ["Dr. Garry", "/letters/vanessa-garry.pdf"],
+      ["Audrey Lee", "/letters/audrey-lee.pdf"],
     ],
   },
 ];
